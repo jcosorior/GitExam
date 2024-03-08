@@ -1,2 +1,0 @@
-# Git Exam.
-# # Bug fix.
