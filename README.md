@@ -1,6 +1,9 @@
 # Test: Crear una API Básica con Flask y subirla a GitHub
 
 ## **EVALUACIÓN**
+
+![alt text](7681.jpg)
+
 ESTE TEST SE EVALUARÁ DE DOS (2) MANERAS:
 1. Se ejecutará el codigo en mi laptop oso jajajajaja
 2. Se hará un test verbal para comprobar que entendió lo que hizo (en algun nivel)
